@@ -9,7 +9,7 @@ import { ThemedView } from '@/components/ThemedView';
 export default function HomeScreen() {
   return (
     <ParallaxScrollView
-      headerBackgroundColor={{ light: '#f3ecedff', dark: '#010b0eff' }}
+      headerBackgroundColor={{ light: '#a1e1faff', dark: '#010b0eff' }}
       headerImage={
         <Image
           source={require('@/assets/images/gatinho.png')}
